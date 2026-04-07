@@ -1,0 +1,3 @@
+GGUF model dosyalarını buraya koy.
+
+Veya `python install.py` çalıştırınca LM Studio'daki modeller otomatik bulunur.
